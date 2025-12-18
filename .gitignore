@@ -9,7 +9,7 @@
 # The following sections constitute a list of Office file extensions that support VBA.
 # If you want to exclude Office files from your repo, uncomment the corresponding file extensions.
 
-# Excel (xls, xlsb, xlsm, xlt, xltm, xla, xlam)
+# Excel (xls, xlsb, xlt, xltm, xla, xlam)
 #*.[xX][lL][sS]
 #*.[xX][lL][sS][bB]
 #*.[xX][lL][sS][mM]
